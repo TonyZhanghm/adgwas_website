@@ -43,14 +43,17 @@ For meta-analysis, we found three additional datasets. The first one includes 3,
 For the regional plots, we have the base pairs on the X-axis, which represent the location on each chromosome and negative log of P-value on the Y-axis. The higher the y value is, the more likely that the SNP is associated with LOAD. Any SNP with P < 0.05 will be considered as significant. We use orange to represent the SNPs on the gene and blue and green to represent the neighbors.
 
 ![CR1 (Chromosome 1)](assets/images/CR1.png)
+
 For gene CR1 at chromosome 1, there are total of 2 SNPs with p<0.05, the 2 significant SNPs are: rs7514606 (P = 0.04243) and rs6540648 (P = 0.04565)
 
 ![PICALM (Chromosome 11)](assets/images/PICALM.png)
+
 For gene PICALM at chromosome 11, there are total of 3 sips with p<0.05, the 3 significant SNPs are: rs7935611 (P = 0.04535), rs10898524 (P = 0.04447), and rs1938936 (P = 0.04430)
 
 #### Manhattan Plot
 
 ![Manhattan Plots](assets/images/manhattan_new.png)
+
 Manhattan plot shows the negative log of P-value on the Y-axis and  chromosome  number  on  the  X-axis. This  plot  shows  the  association  of Alzheimer’s Disease to each one of the 22 chromosomes,  the higher the value on the y-axis the more correlated that chromosome is with Alzheimer’s Disease. In our result, we see a sharp rise in p-value at position chromosome 19, this tells us chromosome 19 contains genes that are highly correlated with Alzheimer’s Disease.
 
 ![table](assets/images/SNPs.png)
@@ -60,6 +63,7 @@ This table shows the top 10 SNPs from our result. The table shows the SNPs and t
 #### QQ-plot
 
 ![Association Test QQ-plot](assets/images/original_qq.png)
+
 QQ plot stands for quantile-quantile plot, QQ plot is done by plotting log of observed p-value (y-axis) against the log of expected p-value (x-axis) [11]. If all the dots remain a straight line it means that the observed p-value follows a uniform distribution and there is no causal polymorphism. If there is a tail at the end of the plot it means that there are extreme p-values in the data, meaning there is causal polymorphism.
 
 In our qq plot we see that there is a tail, which means there is causal polymorphism in our data that produced significant SNP p-value. 
@@ -69,9 +73,11 @@ In our qq plot we see that there is a tail, which means there is causal polymorp
 ### Meta-analysis
 
 ![meta-result](assets/images/meta.png)
+
 Meta analysis is the statistical analysis of combining multiple scientific studies together [12]. We incorporated three other data sets then produced the result. We can see that all of our significant SNPs we found are not in the top meta analysis result. Meaning that our result does not stand up to other dataset. 
 
 ![meta-SNP](assets/images/meta_SNP.png)
+
 We then looked up our significant SNPs in the meta analysis result and found their p-values shown in the table. We see that out of our ten significant SNPs, only two of them (rs4420638, corresponds to APOC1 gene) and (rs429358, corresponds to APOE gene) appear to be significant.
 
 ---
