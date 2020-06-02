@@ -24,19 +24,22 @@ We are using a dataset from Dr. Amanda J. Myers at the University of Miami Schoo
 
 ---
 
-### EDA
-
-#### PCA
-
-![PCA plot](assets/images/PCA.png)
-
-#### Other Plots
-
----
-
 ### Analysis Results
 
-#### Manhattan Plots
+#### Regional Manhattan Plots
+
+![CR1 (Chromosome 1)](assets/images/CR1.png)
+
+![PICALM (Chromosome 11)](assets/images/PICALM.png)
+ 
+#### Manhattan Plot
 
 ![Manhattan Plots](assets/images/manhattan.png)
+
+#### QQ-plot
+
+![Association Test QQ-plot](assets/images/original_qq.png)
+
+### Meta-analysis
+
 
