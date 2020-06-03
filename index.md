@@ -6,7 +6,8 @@ description: author: Haoming Zhang, Zhuoyuan Ren, Haoshu Qin
 ---
 ## GWAS on Alzheimer's Disease
 
-Author: Haoming Zhang, Zhuoyuan Ren, Haoshu Qin
+Authors: Haoming Zhang, Zhuoyuan Ren, Haoshu Qin
+
 ---
 
 ### Background
