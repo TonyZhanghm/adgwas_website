@@ -84,6 +84,12 @@ We then looked up our significant SNPs in the meta analysis result and found the
 
 ---
 
+### Conclusion
+
+Out of the nine genes we tested on, nominal significant associations (P < 0.05) were observed on only two (CR1 and PICALM) of them. We failed to get a consistent result as in the paper[6]. From the association test, we found four genes (CSNK1E, CACNG2, SLC17A6, LINGO2) to be significantly associated with LOAD, but we could get the same result in the meta-analysis. 
+
+---
+
 ### Reference
 
 1. https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies
