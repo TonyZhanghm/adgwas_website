@@ -7,6 +7,7 @@ description: author: Haoming Zhang, Zhuoyuan Ren, Haoshu Qin
 ## GWAS on Alzheimer's Disease
 
 Authors: Haoming Zhang, Zhuoyuan Ren, Haoshu Qin
+
 Project Github Repo: [https://github.com/TonyZhanghm/DSC180B_Genome_01](https://github.com/TonyZhanghm/DSC180B_Genome_01)
 
 ---
